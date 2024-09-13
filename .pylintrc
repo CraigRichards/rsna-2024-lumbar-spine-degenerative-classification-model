@@ -1,0 +1,2 @@
+[MASTER]
+exclude = rsna-2024-lumbar-spine-degenerative-classification/**, models/**, **/*.dcm
